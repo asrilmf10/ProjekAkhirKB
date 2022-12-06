@@ -13,5 +13,5 @@
 - Kelas dari dataset ada 2, yaitu "painting" dan "photograph"
 
 ## Preprocessing Dataset
-- Pembagian Dataset : Data training 80%, Data Validation 10%, dan Data Testing 10%
+- Pembagian Dataset : Data training 80%, Data Validation 15%, dan Data Testing 5%
 - Hasil Split Dataset : https://drive.google.com/drive/folders/1TjApwPfJvu28gmCH9Iq73ZrVZgAZiWmd
